@@ -1,4 +1,4 @@
-package bed;
+package carpet;
 
 public enum PaintColor {
     RED,

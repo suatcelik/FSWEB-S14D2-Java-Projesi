@@ -1,9 +1,5 @@
 package carpet;
 
-import bed.PaintColor;
-
-import java.awt.font.TextHitInfo;
-
 public class Carpet {
     private int width;
     private int height;
