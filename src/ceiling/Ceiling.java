@@ -19,4 +19,12 @@ public class Ceiling {
     public void create(){
         System.out.println("Ceiling object has height of " + height + " and painted color of " + paintedColor);
     }
+
+    @Override
+    public String toString() {
+        return "Ceiling{" +
+                "height=" + height +
+                ", paintedColor=" + paintedColor +
+                '}';
+    }
 }
